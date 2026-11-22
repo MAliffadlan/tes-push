@@ -7,7 +7,7 @@
 autorePipeline(
     appName: 'tes-push',
     appPort: 8000,
-    deployPort: 8300,
+    deployPort: 8302,
     deployName: 'tes-push-staging',
     releaseEnvironment: 'staging'
 )
